@@ -20,5 +20,12 @@
         </actionGroups>
     </config>
 
+    <!-- Renders can not be overrided
+    <config evaluator="string-compare" condition="DocLibCustom">
+        <dependencies>
+            <js src="/components/documentlibrary/actions/onlyoffice-actions.js" />
+        </dependencies>
+    </config>
+    -->
 
 </alfresco-config>

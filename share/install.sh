@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DEV_SERVER=onlyoffice
+DEV_SERVER=onlyofficealf
 INSTALL_DIR=/var/lib/tomcat7/webapps/share/WEB-INF/lib
 
 USERNAME=admin
