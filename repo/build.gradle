@@ -65,7 +65,7 @@ dependencies {
 }
 
 jar {
-    baseName = project.name
+    archiveName = project.name + ".jar"
     version = project.version
 }
 
